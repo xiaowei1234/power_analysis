@@ -1,4 +1,4 @@
-# Testing the effect of lowering multiplier on take rate
+# Testing the effect of ... on take rate
 
 ## Hypothesis
 
